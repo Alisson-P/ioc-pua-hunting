@@ -45,7 +45,7 @@ flowchart TD
     A["Collection<br/>feeds, specialist sources,<br/>authorized forums, internal cases"] --> B["Normalization<br/>one record shape,<br/>one deterministic identity"]
     B --> C["Correlation<br/>consensus measured across<br/>independent sources only"]
     C --> D["Enrichment<br/>the allowlist runs here,<br/>before anything else"]
-    D --> E["Decision<br/>score, band, action<br/>and an expiry date"]
+    D --> E["Decision<br/>score, action<br/>and an expiry date"]
     E --> F["Distribution<br/>packages leave marked<br/>pending human approval"]
     E --> G["Automated hunting<br/>every new indicator triggers<br/>a 30 day retroactive search"]
     G --> H["Cases<br/>opened with the evidence<br/>already attached"]
