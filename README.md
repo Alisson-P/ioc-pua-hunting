@@ -91,7 +91,7 @@ Everything in the core is open source. That was a constraint from the first sket
 
 **In here:** the design, the principles, the architecture, the decisions I made and the reasoning behind each one.
 
-**Not in here:** source code, the step by step implementation guides, the architecture document, and any sample output. The full project lives in a separate private repository.
+**Not in here:** source code, the step by step implementation guides, the architecture document, and any sample output. The full project lives in a separate private repository, in two builds: the base platform described here, and the Jev variant, where the triage verdict comes from closed typed questions with a calibrated confidence figure, composed in code rather than decided inside the model. The two exist side by side on purpose, so that one can be measured against the other on identical input.
 
 There are no screenshots yet, and I would rather say that plainly than dress up something I have not run end to end for an audience. Sample runs with fictitious data are the next thing planned for this repository, and they will show up here when they exist.
 
