@@ -45,7 +45,7 @@ flowchart TD
     A["Coleta<br/>feeds, fontes especializadas,<br/>fóruns autorizados, casos internos"] --> B["Normalização<br/>um formato de registro,<br/>uma identidade determinística"]
     B --> C["Correlação<br/>consenso medido apenas entre<br/>fontes independentes"]
     C --> D["Enriquecimento<br/>a allowlist roda aqui,<br/>antes de qualquer coisa"]
-    D --> E["Decisão<br/>pontuação, banda, ação<br/>e prazo de validade"]
+    D --> E["Decisão<br/>pontuação, ação<br/>e prazo de validade"]
     E --> F["Distribuição<br/>os pacotes saem marcados<br/>como pendentes de aprovação"]
     E --> G["Caça automática<br/>todo indicador novo dispara<br/>busca retroativa de 30 dias"]
     G --> H["Casos<br/>abertos com a evidência<br/>já anexada"]
