@@ -91,7 +91,7 @@ Tudo que está no núcleo é open source. Isso foi restrição desde o primeiro 
 
 **Está aqui:** o desenho, os princípios, a arquitetura, as decisões que eu tomei e o raciocínio atrás de cada uma.
 
-**Não está aqui:** código fonte, os guias de implementação passo a passo, o documento de arquitetura e qualquer amostra de saída. O projeto completo mora num repositório privado separado.
+**Não está aqui:** código fonte, os guias de implementação passo a passo, o documento de arquitetura e qualquer amostra de saída. O projeto completo mora num repositório privado separado, em duas versões: a plataforma base descrita aqui, e a variante Jev, em que o veredito da triagem sai de perguntas fechadas e tipadas, com um número de confiança calibrado, composto em código em vez de decidido dentro do modelo. As duas existem lado a lado de propósito, para que uma possa ser medida contra a outra sobre a mesma entrada.
 
 Ainda não tem captura de tela, e eu prefiro dizer isso na lata a maquiar alguma coisa que eu não rodei de ponta a ponta para mostrar. Execuções de exemplo com dados fictícios são o próximo passo previsto para este repositório, e vão aparecer aqui quando existirem.
 
