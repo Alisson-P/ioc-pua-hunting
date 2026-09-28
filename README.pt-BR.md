@@ -2,7 +2,7 @@
 
 **Uma plataforma open source que unifica gestão de indicadores, política de software indesejado e caça retroativa a ameaças.**
 
-[Read this in English](README.md)
+[Read this in English](README.md) | [Variante com decisões tipadas](https://github.com/Alisson-P/ioc-pua-hunting-jev)
 
 > Um indicador sem prazo de validade não é proteção. É dívida, e mais cedo ou mais tarde ela cobra juros na forma de incidente de disponibilidade.
 
