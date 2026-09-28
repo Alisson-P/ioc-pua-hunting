@@ -2,7 +2,7 @@
 
 **A unified open source platform for indicator management, unwanted software policy and retroactive threat hunting.**
 
-[Leia em português](README.pt-BR.md) | [Typed decision variant](https://github.com/Alisson-P/ioc-pua-hunting-jev)
+[Leia em português](README.pt-BR.md) | [JEV variant](https://github.com/Alisson-P/ioc-pua-hunting-jev)
 
 > An indicator with no expiry date is not protection. It is debt, and sooner or later it pays interest as an availability incident.
 
